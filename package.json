@@ -1,0 +1,17 @@
+{
+  "name": "com.gzher.u_scene_editor",
+  "version": "0.1.0",
+  "displayName": "uSceneEditor",
+  "description": "Scene Editor by Unity",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/GZhonghui/uSceneEditor",
+  "keywords": [],
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "author": {
+    "name": "Zhonghui",
+    "email": "mail@gzher.com",
+    "url": "https://www.gzher.com/"
+  }
+}
